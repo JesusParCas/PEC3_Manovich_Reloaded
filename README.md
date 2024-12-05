@@ -2,9 +2,7 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
-
-Autor: 
-
+Autor: Jesús Parrillas del Casar
 
 Fecha: 
 
@@ -13,20 +11,18 @@ Fecha:
 
 
 ## Planteamiento
+A continuación, exploraremos los dos casos de hibridación: Wikiloc y Tabletop Simulator. Estos ejemplos destacan no solo por como el software reconfigura las experiencias tradicionales, sino que también por como las fusiona con nuevos paradigmas digitales. Pero antes, expliquemos un poco el concepto de hibridación. En su obra *El software toma el mando*, Lev Manovich analiza cómo los medios digitales transforman nuestras interacciones y experiencias. A esta transformación, Lev Manovich la denomina "hibridación",  refiriéndose a como el software es capaz de mezclar elementos propios de medios previos, creando nuevas formas culturales.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Re-descubriendo la hibridacion: Wikiloc
 
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wikiloc, es una plataforma colaborativa para compartir rutas al aire libre.
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Tabletop Simulator
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tabletop Simulator permite a los jugadores recrear casi cualquier juego de mesa, la plataforma combina elementos tradicionales las capacidades del software para ofrecer una experiencia híbrida.
 
 
 ### Referencias y Bibliografía
