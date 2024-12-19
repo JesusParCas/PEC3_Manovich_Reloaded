@@ -33,7 +33,20 @@ En resumen, Wikiloc es un ejemplo de cómo el software transforma medios tradici
 
 ## Re-descubriendo la hibridacion: Tabletop Simulator
 
-Tabletop Simulator permite a los jugadores recrear casi cualquier juego de mesa, la plataforma combina elementos tradicionales las capacidades del software para ofrecer una experiencia híbrida.
+En el libro “El software toma el mando”, Lev Manovich argumenta que el software ha transformado los medios tradicionales al absorber sus funciones y ampliarlas con nuevas funciones interactivas. Este proceso de hibridación se puede observar en Tabletop Simulator, una plataforma que traslada los juegos de mesa al mundo digital. No se limita solo a los juegos ya existentes en el mundo real, este software expande las posibilidades mediante la integración de simulación física, diseño 3D y personalización.
+
+Tabletop Simulator convierte los elementos tradicionales de los juegos de mesa, como el tablero, las fichas, las cartas… en objetos digitales configurables. Esto refleja la lógica del software que Manovich describe: sistemas que no solo reproducen medios previos, sino que también los transforman en plataformas interactivas y dinámicas. Los jugadores pueden modificar las reglas, personalizar los diseños y hasta crear sus propios juegos, lo que elimina las barreras entre creadores y usuarios. Tabletop Simulator no es simplemente un sitio donde jugar. Es un metamedio, que permite integrar múltiples capas de interacción y creatividad.
+
+ El concepto de modularidad, también es clave en Tabletop Simulator. Cada componente del juego, es un módulo independiente que se puede reutilizar, adaptar o reemplazar. Esta flexibilidad permite a los usuarios diseñar juegos completamente nuevos o reconfigurar los ya existentes, fomentando una cultura de experimentación y personalización. Además, incluye herramientas de scripting que amplían aún más estas posibilidades, permitiendo crear reglas más complejas o añadir efectos visuales personalizados.
+
+Desde una perspectiva cultural, Tabletop Simulator reimagina los juegos de mesa como una práctica colaborativa. Manovich destaca como el software actua como mediador cultural, creando nuevas formas de interacción social. En el caso de Tabletop Simulator, los juegos ya no se limitan por el espacio o la geografia, los jugadores de todo el mundo pueden conectarse, compartir sus creaciones, aportar y jugar. Esta conexion global redefine los juegos de mesa como un espacio digital compartido.
+
+Manovich menciona que las herramientas de software no solo reproducen funciones tradicionales, sino que las expanden para incluir nuevas formas de interacción. En este caso, Tabletop Simulator añade capas de interacción digital, como la capacidad de restaurar un tablero o realizar ajustes en las reglas, esto amplía las posibilidades creativas para los usuarios.
+
+Mientras que en los juegos de mesa tradicionales dependen de componentes físicos y la interacción en persona, esta plataforma virtual utiliza simulación física para replicar dinámicas del mundo real, como la gravedad o las colisiones entre objetos. La plataforma añade funciones exclusivas del entorno digital, como la capacidad de guardar estados del juego, integrar imágenes personalizadas y diseñar escenarios en 3D, esto refleja la capacidad del software para absorber y superar las limitaciones de los medios tradicionales.
+
+En conclusión, Tabletop Simulator es otro ejemplo de cómo el software transforma los medios tradicionales al combinarlos con características digitales para crear nuevas formas culturales. Desde la flexibilidad y la personalización hasta la conectividad global, en esta plataforma se puede ver los principios centrales del análisis de Manovich sobre la hibridación y el metamedio.
+Tabletop Simulator reinventa el acto de jugar como una experiencia colaborativa, demostrando cómo el software tiene la capacidad de transformar incluso las prácticas más tradicionales en nuevas formas culturales.
 
 
 ### Referencias y Bibliografía
