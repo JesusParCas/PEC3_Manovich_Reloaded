@@ -1,20 +1,18 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+#### Autor: Jesús Parrillas del Casar
+#### Fecha: 20/12/2024
 
-Autor: Jesús Parrillas del Casar
-
-Fecha: 
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://images.pexels.com/photos/17483848/pexels-photo-17483848/free-photo-of-abstracto-resumen-tecnologia-microchip.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 
-## Planteamiento
+## Introducción
 A continuación, exploraremos los dos casos de hibridación: Wikiloc y Tabletop Simulator. Estos ejemplos destacan no solo por como el software reconfigura las experiencias tradicionales, sino que también por como las fusiona con nuevos paradigmas digitales. Pero antes, expliquemos un poco el concepto de hibridación. En su obra *El software toma el mando*, Lev Manovich analiza cómo los medios digitales transforman nuestras interacciones y experiencias. A esta transformación, Lev Manovich la denomina "hibridación",  refiriéndose a como el software es capaz de mezclar elementos propios de medios previos, creando nuevas formas culturales.
 
 
-## Re-descubriendo la hibridacion: Wikiloc
+## Wikiloc: La transformación digital de la cartografía
+![Mapa](https://images.pexels.com/photos/592753/pexels-photo-592753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Wikiloc transforma la percepción tradicional de la cartografía y la exploración convirtiendo mapas estáticos en entornos dinámicos, esta aplicación combina mapas, datos y redes sociales en un metamedio interactivo. Wikiloc no solo permite consultar rutas predefinidas, sino que invita a los usuarios a crear, compartir y modificar sus propias rutas. Siguiendo la lógica del software descrita por Lev Manovich en “El software toma el mando”, esta plataforma no solo adopta tecnologías digitales, sino que las utiliza para reconfigurar un medio tradicional como los mapas, integrando capas de interacción social y personalización
 
@@ -31,8 +29,8 @@ Finalmente, Wikiloc ejemplifica el impacto del software en la redefinición del 
 En resumen, Wikiloc es un ejemplo de cómo el software transforma medios tradicionales en plataformas dinámicas e interactivas. Además, su capacidad para combinar información personal, social y geográfica demuestra cómo el software redefine nuestra relación con el espacio y el tiempo, permitiendo no solo representar el mundo, sino interactuar con él y modificarlo. Con Wikiloc se puede ver como el software moldea nuevas prácticas culturales, facilitando una conexión más profunda entre los usuarios, el entorno y la tecnología.
 
 
-## Re-descubriendo la hibridacion: Tabletop Simulator
-
+## Tabletop Simulator: la evolución de los juegos de mesa en el mundo digital
+![Juego de mesa](https://images.pexels.com/photos/4691567/pexels-photo-4691567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 En el libro “El software toma el mando”, Lev Manovich argumenta que el software ha transformado los medios tradicionales al absorber sus funciones y ampliarlas con nuevas funciones interactivas. Este proceso de hibridación se puede observar en Tabletop Simulator, una plataforma que traslada los juegos de mesa al mundo digital. No se limita solo a los juegos ya existentes en el mundo real, este software expande las posibilidades mediante la integración de simulación física, diseño 3D y personalización.
 
 Tabletop Simulator convierte los elementos tradicionales de los juegos de mesa, como el tablero, las fichas, las cartas… en objetos digitales configurables. Esto refleja la lógica del software que Manovich describe: sistemas que no solo reproducen medios previos, sino que también los transforman en plataformas interactivas y dinámicas. Los jugadores pueden modificar las reglas, personalizar los diseños y hasta crear sus propios juegos, lo que elimina las barreras entre creadores y usuarios. Tabletop Simulator no es simplemente un sitio donde jugar. Es un metamedio, que permite integrar múltiples capas de interacción y creatividad.
@@ -52,8 +50,3 @@ Tabletop Simulator reinventa el acto de jugar como una experiencia colaborativa,
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
