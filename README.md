@@ -48,5 +48,13 @@ Tabletop Simulator reinventa el acto de jugar como una experiencia colaborativa,
 
 
 ### Referencias y Bibliografía
+#### Libros y artículos
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+#### Recursos en línea
+* Wikiloc. https://www.wikiloc.com
+* Tabletop Simulator. https://www.tabletopsimulator.com
+  
+----
+- Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+- Las imágenes utilizadas en este proyecto son libres de derechos y fueron obtenidas de [Pexels](https://www.pexels.com/)
